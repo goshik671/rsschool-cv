@@ -26,11 +26,6 @@ I am an energetic, purposeful, reliable, responsible and hardworking person. I a
 `<h1> Hello World </h1>`
 
 
-
-
-
-  
-
 ***
 ## Language skills:
 * **English:** *Elementary - Intrmediate*
