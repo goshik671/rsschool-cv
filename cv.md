@@ -28,6 +28,6 @@ I am an energetic, purposeful, reliable, responsible and hardworking person. I a
 
 ***
 ## Language skills:
-* **English:** *Elementary - Intrmediate*
+* **English:** *Elementary*
 * **Russian:** *Native*
 * **Belarussian:** *Native*
